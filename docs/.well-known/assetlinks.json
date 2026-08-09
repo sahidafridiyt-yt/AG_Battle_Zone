@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.agbattlezone",
+      "sha256_cert_fingerprints": [
+        "C3:CA:C4:4A:FB:6E:B9:AB:F2:18:7E:D6:72:75:9B:43:9B:00:B2:8C:18:AC:38:65:8D:78:84:CA:3A:B6:3B:54"
+      ]
+    }
+  }
+]

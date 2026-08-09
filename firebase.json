@@ -1,0 +1,32 @@
+{
+  "projects": {
+    "default": "ag-battle-zone-8b4fa"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {
+    "source": "functions"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ag-battle-zone-8b4fa",
+          "appId": "1:630830005532:android:2839560f5f828f6a924ed9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ag-battle-zone-8b4fa",
+          "configurations": {
+            "android": "1:630830005532:android:2839560f5f828f6a924ed9",
+            "ios": "1:630830005532:ios:898b0069965abc69924ed9"
+          }
+        }
+      }
+    }
+  }
+}
